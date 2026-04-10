@@ -1,0 +1,37 @@
+Fudds and the Devs: The Only Way Fudds' Statements Can Be True
+
+Fudds: Whew! I'm back from my vacation boys! Just in time for the new update. How are the Beta testers liking the new 2x Dissonant bonuses?
+
+Devs: Hey Fudds! So listen, the Beta testers liked Dissonant Runs a great deal. The issue is that the work involved was tedious, and the max 2x benefit didn't seem like enough. A lot of testers weren't bothering to run lower tiers for the echo benefit, since it's only a 0.5% increase in stats for doing a long 5k run, soooo... we've upped the bonus on stats to 5x.
+
+Fudds: Hmmmm, that seems like a lot. You mean for all stats?
+
+Devs: Yup. For all stats.
+
+** An airhorn sounds within the office for a long period of time. It's Nancy's birthday, and this was her one request. **
+
+Fudds: I understand why you're increasing the bonus for all stats, as long as you aren't doing it for Coin bonus. I'm sure we understand each other that Coin bonus doesn't count when you say 'All stats'.
+
+** The airhorn fades, fuel spent. **
+
+Devs: What was that, sir?
+
+Fudds: I said increasing it to 5x for all stats is fine. We understand one another. 
+
+Devs: Fantastic sir! Here's how we did it:
+
+** Another airhorn starts within the office. Nancy found another airhorn in her purse.**
+
+Devs: We've made the number for all 4 bonus integers into a single variable, so if we want to change it later we can. That way if we want to change the bonuses for all 4 at the same time, we can do it without an update. So long as we don't plan on making the bonuses different numbers for different stats. Which, why would we? That would be absurd. It would make no sense. It would make echo bonus calculations far more complicated for the players.
+
+** The second airhorn fades. **
+
+Fudds: I'm sorry, can you repeat that?
+
+Devs: I said that the change we've made is easy to retract without an update.
+
+Fudds: Oh wonderful. Yup, this all sounds good. Ship it.
+
+Devs: Would you like to take a look at the changes yourself?
+
+Fudds: I SAID SHIP IT.
