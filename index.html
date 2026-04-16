@@ -1,17 +1,33 @@
+<script src="story.js"></script>
 <style>
   .story {
     width: 100%;
     height: 100%;
     padding: 10;
   }
+  .title-text {
+    color: white;
+  }
   .story-text {
-    color: red;
+    color: white;
+  }
+  .contact-text {
+    color: white;
   }
   body {
     margin: 0;
     background-color: black;
   }
 </style>
-<p class="story-text">
-  <embed class="story" src="story.txt" />
+<h1 id="title-text" class="title-text"></h1>
+<p id="story-text" class="story-text"></p>
+<br><br>
+<p id="contact-text" class="contact-text">
+    Please email any stories and ideas to ideas@fuddsfiction.net
 </p>
+
+<script>
+    document.getElementById("title-text").innerHTML = title
+    contentWithBreaks = content.join("<br><br>")
+    document.getElementById("story-text").innerHTML = contentWithBreaks
+</script>
